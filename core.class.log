@@ -1,0 +1,266 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51987512251@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03A9340853F83BE7D40',
+    participant: undefined
+  },
+  messageTimestamp: 1703106029,
+  pushName: 'FK SISTEN',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '51987512251'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_521d9028-9594-4d5e-9c6b-de904b8905a2',
+  keyword: 'key_1ded443a-57a4-4e84-bd11-5b3148681af6',
+  answer: '🙌 Hola Bienvenido, Soy el *Chatbot* 🤖 de *SISCAMCHACCHA* estare para apoyarlo🤝',
+  options: {
+    media: 'https://i.imgur.com/WTXaDCk.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '44f988bfa14f7431aee6aa339344d03f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_8a3c2138-2dd9-4e8d-bcdc-2cc3ac726c7a',
+  keyword: 'ans_521d9028-9594-4d5e-9c6b-de904b8905a2',
+  answer: 'En esta oportunidad le ayudare con su compra y le brindare informacion de nuestros servicios dime cual desea👇.\n' +
+    '👨‍💻*Informacion.* (1) Para enviarle el link de pagina y revise nuestros productos y servicios.\n' +
+    '🛒*Productos.* (2)  Para ver la lista de productos y marcas que trabajamos.\n' +
+    '👷*Instalacion.* (3) Conocer precios de instalacion. (los precios son aprox)\n' +
+    '🛠️*Mantenimiento.* (4) Registrar un mantenimiento o consultar.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'c47192287b3710a9a1c1a5e0351b84b5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51987512251@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0AB4305084F1AC8B8DA',
+    participant: undefined
+  },
+  messageTimestamp: 1703106036,
+  pushName: 'FK SISTEN',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '2',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '51987512251'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6a8eaf0a-63d4-4a51-9b93-a1dc08c9c20e',
+  keyword: 'key_59f04f94-5a55-4c8d-8b90-bf58dd9812fa',
+  answer: '🙌 Aquí encontras nuestros *SISTEMAS DE VIGILANCIA*',
+  options: {
+    media: 'https://i.imgur.com/7wAK3p2.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f8cd58e304200d66eb59166186c322f5'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9270e399-7c2e-487d-922a-dc5e0225f13c',
+  keyword: 'ans_6a8eaf0a-63d4-4a51-9b93-a1dc08c9c20e',
+  answer: '🙌 Aquí encontras nuestros *SISTEMAS ALARMAS*',
+  options: {
+    media: 'https://i.imgur.com/8WdM6jE.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '36680574538f511030d574240d65cb58'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b2a413d2-53b4-4838-9adb-a1088f4cc77c',
+  keyword: 'ans_9270e399-7c2e-487d-922a-dc5e0225f13c',
+  answer: '🙌 Aquí encontras nuestros *SISTEMAS DE CONTROL DE ACCESO*',
+  options: {
+    media: 'https://i.imgur.com/rhwdEIf.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e70982fba0af93610291f7857fdb01b1'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0026557b-63ae-4366-9069-84f873f74a0e',
+  keyword: 'ans_b2a413d2-53b4-4838-9adb-a1088f4cc77c',
+  answer: '🙌 Aquí encontras nuestros *SISTEMAS DE TELECOMUNICACIONES*',
+  options: {
+    media: 'https://i.imgur.com/dkGT4Uk.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b327f8e0dc4b88a44d8eb63ad8f57dd3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_68632a78-0e2d-4a5d-a6f0-4c8788e2475c',
+  keyword: 'ans_0026557b-63ae-4366-9069-84f873f74a0e',
+  answer: '🙌 Aquí encontras nuestros *SISTEMAS DE REDES Y CABLEADO ESTRUCTURADO*',
+  options: {
+    media: 'https://i.imgur.com/EyZlHLb.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '46eacc984a98198477f9f5cd4bfd264c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_09fad196-ca4b-4b50-ab81-b721e2a3dd58',
+  keyword: 'ans_68632a78-0e2d-4a5d-a6f0-4c8788e2475c',
+  answer: '🙌 Aquí encontras nuestros *SISTEMAS CONTRA INCENDIOS*',
+  options: {
+    media: 'https://i.imgur.com/0KU1CQv.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '00a1991f63e164fc4057a5516937ea11'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a76e3105-7531-4fb1-a21f-5a03ea7cf208',
+  keyword: 'ans_09fad196-ca4b-4b50-ab81-b721e2a3dd58',
+  answer: 'le adjunte imagenes con las marcas que trabajamos de igual forma los tipos de sistemas que trabajamos y que brindamos garantia\n' +
+    '\n' +
+    '*2* CONTACTAR CON UN ASESOR 👨‍💻.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '84a35726fde97083f5bd24ccc3768ad6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51971345488@s.whatsapp.net',
+    fromMe: false,
+    id: 'F1BD3B9DEC8ED3F27421347EAD81F2CE',
+    participant: undefined
+  },
+  messageTimestamp: 1703106510,
+  pushName: 'Josy',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ok',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ok',
+  from: '51971345488'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51931805949@s.whatsapp.net',
+    fromMe: false,
+    id: '70663B5E3E7C1123751C29C6F8D4669F',
+    participant: undefined
+  },
+  messageTimestamp: 1703106627,
+  pushName: '☆😎Chap(U) El (U)niico🤙☆',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ayaaa manoo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ayaaa manoo',
+  from: '51931805949'
+}
