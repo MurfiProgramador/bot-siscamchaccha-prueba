@@ -80,10 +80,10 @@ const flowPrincipal = addKeyword(['hola', 'ole', 'alo'])
     .addAnswer(
         [
             'En esta oportunidad le ayudare con su compra y le brindare informacion de nuestros servicios dime cual desea👇.',
-            '👨‍💻*Informacion.* (1) Para enviarle el link de pagina y revise nuestros productos y servicios.',
-            '🛒*Productos.* (2)  Para ver la lista de productos y marcas que trabajamos.',
-            '👷*Instalacion.* (3) Conocer precios de instalacion. (los precios son aprox)',
-            '🛠️*Mantenimiento.* (4) Registrar un mantenimiento o consultar.',
+            '👨‍💻 *Informacion*. (1) Para enviarle el link de pagina y revise nuestros productos y servicios.',
+            '🛒 *Productos*. (2)  Para ver la lista de productos y marcas que trabajamos.',
+            '👷 *Instalacion*. (3) Conocer precios de instalacion. (los precios son aprox)',
+            '🛠️ *Mantenimiento*. (4) Registrar un mantenimiento o consultar.',
         ],
         null,
         null,
