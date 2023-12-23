@@ -1,11 +1,11 @@
 {
-    "name": "base-bailey-memory",
+    "name": "bot-siscamchaccha-prueba-main",
     "version": "1.0.0",
     "description": "",
     "main": "app.js",
     "scripts": {
         "prestart": "npx eslint .",
-        "pre-copy": "cd .. && npm run  copy.lib base-baileys-memory",
+        "pre-copy": "cd .. && npm run  copy.lib bot-siscamchaccha-prueba-main",
         "start": "node app.js"
     },
     "keywords": [],
